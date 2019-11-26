@@ -1,0 +1,1 @@
+﻿Git init: สร้าง repo ที่ folder ปัจจุบัน
